@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "213298011612",
+    "project_id": "satkartaru",
+    "storage_bucket": "satkartaru.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:213298011612:android:d120047e50ce906056c319",
+        "android_client_info": {
+          "package_name": "com.satkartaruapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "213298011612-41spptfbjc2gl3uftnort15bijbujslk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXM0DH52Y7EcWLP-i1QMLuIOgoP3Wdglk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "213298011612-41spptfbjc2gl3uftnort15bijbujslk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
